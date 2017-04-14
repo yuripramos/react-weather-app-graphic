@@ -15,3 +15,25 @@ td:first-of-type, td:first-of-type > div{
 	height:200px;
 	width: 250px;
 }
+
+input{
+	border-radius-top-left: 10px !important;
+	border-radius-bottom-right:10px !important;
+}
+
+button{
+	border-radius-tor-right:10px !important;
+	border-radius-bottom-right:10px !important;
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding: 30px;
+    font-weight: 700;
+}
+
+body{
+	background: rgba(255, 25, 55, 0.1);
+}
