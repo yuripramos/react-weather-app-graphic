@@ -9,7 +9,7 @@ This is an app that shows the Temperature, Pressure and Humidity according to th
 
 
 ```sh
-git clone https://github.com/yuripramos/react-drylbbb
+git clone https://github.com/yuripramos/react-weather-app-graphic
 cd react-weather-app-graphic
 npm install or yarn install
 npm run dev
